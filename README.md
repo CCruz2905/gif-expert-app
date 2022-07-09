@@ -1,2 +1,2 @@
 # Gif Expert App
-Este es el resultado del curso de React impartido por Fernando Herrera
+Repositorio de react app creado en el curso de Fernando Herrera
